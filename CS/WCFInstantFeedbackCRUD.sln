@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFInstantFeedbackCRUD", "WCFInstantFeedbackCRUD\WCFInstantFeedbackCRUD.csproj", "{A0BE2498-77C7-4195-A3DB-72018C8209FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFInstantFeedbackCRUD.Web", "WCFInstantFeedbackCRUD.Web\WCFInstantFeedbackCRUD.Web.csproj", "{39DF25AB-CC58-4FCA-B1AC-4A0F229F0C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0BE2498-77C7-4195-A3DB-72018C8209FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BE2498-77C7-4195-A3DB-72018C8209FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BE2498-77C7-4195-A3DB-72018C8209FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BE2498-77C7-4195-A3DB-72018C8209FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39DF25AB-CC58-4FCA-B1AC-4A0F229F0C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DF25AB-CC58-4FCA-B1AC-4A0F229F0C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DF25AB-CC58-4FCA-B1AC-4A0F229F0C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DF25AB-CC58-4FCA-B1AC-4A0F229F0C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
