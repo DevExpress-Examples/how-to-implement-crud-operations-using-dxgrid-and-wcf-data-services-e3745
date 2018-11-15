@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [NorthwindService.svc.cs](./CS/WCFInstantFeedbackCRUD.Web/NorthwindService.svc.cs) (VB: [NorthwindService.svc.vb](./VB/WCFInstantFeedbackCRUD.Web/NorthwindService.svc.vb))
+* [MainPage.xaml](./CS/WCFInstantFeedbackCRUD/MainPage.xaml) (VB: [MainPage.xaml](./VB/WCFInstantFeedbackCRUD/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/WCFInstantFeedbackCRUD/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/WCFInstantFeedbackCRUD/MainPage.xaml))
+<!-- default file list end -->
 # How to implement CRUD operations using DXGrid and WCF Data Services
 
 
